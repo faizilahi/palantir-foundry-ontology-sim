@@ -1,0 +1,401 @@
+patient_id,full_name,risk_tier,primary_site
+P00001,Patient 1,HIGH,South Clinic
+P00002,Patient 2,MEDIUM,Telehealth
+P00003,Patient 3,HIGH,South Clinic
+P00004,Patient 4,HIGH,South Clinic
+P00005,Patient 5,MEDIUM,North Clinic
+P00006,Patient 6,HIGH,South Clinic
+P00007,Patient 7,HIGH,North Clinic
+P00008,Patient 8,LOW,North Clinic
+P00009,Patient 9,LOW,Telehealth
+P00010,Patient 10,LOW,South Clinic
+P00011,Patient 11,LOW,South Clinic
+P00012,Patient 12,HIGH,North Clinic
+P00013,Patient 13,HIGH,North Clinic
+P00014,Patient 14,LOW,Telehealth
+P00015,Patient 15,MEDIUM,South Clinic
+P00016,Patient 16,HIGH,Telehealth
+P00017,Patient 17,LOW,Telehealth
+P00018,Patient 18,HIGH,Telehealth
+P00019,Patient 19,LOW,North Clinic
+P00020,Patient 20,MEDIUM,North Clinic
+P00021,Patient 21,HIGH,South Clinic
+P00022,Patient 22,LOW,South Clinic
+P00023,Patient 23,MEDIUM,Telehealth
+P00024,Patient 24,LOW,North Clinic
+P00025,Patient 25,HIGH,North Clinic
+P00026,Patient 26,LOW,North Clinic
+P00027,Patient 27,HIGH,North Clinic
+P00028,Patient 28,MEDIUM,South Clinic
+P00029,Patient 29,MEDIUM,North Clinic
+P00030,Patient 30,MEDIUM,Telehealth
+P00031,Patient 31,MEDIUM,North Clinic
+P00032,Patient 32,MEDIUM,North Clinic
+P00033,Patient 33,MEDIUM,South Clinic
+P00034,Patient 34,HIGH,Telehealth
+P00035,Patient 35,HIGH,South Clinic
+P00036,Patient 36,HIGH,Telehealth
+P00037,Patient 37,HIGH,North Clinic
+P00038,Patient 38,MEDIUM,North Clinic
+P00039,Patient 39,MEDIUM,Telehealth
+P00040,Patient 40,HIGH,Telehealth
+P00041,Patient 41,MEDIUM,Telehealth
+P00042,Patient 42,LOW,Telehealth
+P00043,Patient 43,HIGH,South Clinic
+P00044,Patient 44,LOW,North Clinic
+P00045,Patient 45,HIGH,South Clinic
+P00046,Patient 46,MEDIUM,South Clinic
+P00047,Patient 47,LOW,South Clinic
+P00048,Patient 48,LOW,South Clinic
+P00049,Patient 49,MEDIUM,North Clinic
+P00050,Patient 50,LOW,South Clinic
+P00051,Patient 51,LOW,Telehealth
+P00052,Patient 52,MEDIUM,North Clinic
+P00053,Patient 53,HIGH,South Clinic
+P00054,Patient 54,MEDIUM,South Clinic
+P00055,Patient 55,HIGH,North Clinic
+P00056,Patient 56,HIGH,South Clinic
+P00057,Patient 57,HIGH,Telehealth
+P00058,Patient 58,MEDIUM,Telehealth
+P00059,Patient 59,MEDIUM,Telehealth
+P00060,Patient 60,MEDIUM,Telehealth
+P00061,Patient 61,LOW,South Clinic
+P00062,Patient 62,MEDIUM,North Clinic
+P00063,Patient 63,MEDIUM,North Clinic
+P00064,Patient 64,LOW,Telehealth
+P00065,Patient 65,HIGH,North Clinic
+P00066,Patient 66,LOW,Telehealth
+P00067,Patient 67,LOW,South Clinic
+P00068,Patient 68,LOW,Telehealth
+P00069,Patient 69,HIGH,North Clinic
+P00070,Patient 70,HIGH,North Clinic
+P00071,Patient 71,HIGH,South Clinic
+P00072,Patient 72,LOW,North Clinic
+P00073,Patient 73,HIGH,South Clinic
+P00074,Patient 74,MEDIUM,South Clinic
+P00075,Patient 75,MEDIUM,South Clinic
+P00076,Patient 76,LOW,North Clinic
+P00077,Patient 77,MEDIUM,North Clinic
+P00078,Patient 78,HIGH,South Clinic
+P00079,Patient 79,MEDIUM,South Clinic
+P00080,Patient 80,LOW,Telehealth
+P00081,Patient 81,MEDIUM,Telehealth
+P00082,Patient 82,LOW,South Clinic
+P00083,Patient 83,HIGH,North Clinic
+P00084,Patient 84,HIGH,North Clinic
+P00085,Patient 85,LOW,Telehealth
+P00086,Patient 86,MEDIUM,South Clinic
+P00087,Patient 87,HIGH,Telehealth
+P00088,Patient 88,HIGH,South Clinic
+P00089,Patient 89,HIGH,South Clinic
+P00090,Patient 90,MEDIUM,North Clinic
+P00091,Patient 91,LOW,South Clinic
+P00092,Patient 92,HIGH,South Clinic
+P00093,Patient 93,MEDIUM,Telehealth
+P00094,Patient 94,LOW,North Clinic
+P00095,Patient 95,LOW,North Clinic
+P00096,Patient 96,MEDIUM,South Clinic
+P00097,Patient 97,HIGH,Telehealth
+P00098,Patient 98,MEDIUM,Telehealth
+P00099,Patient 99,MEDIUM,South Clinic
+P00100,Patient 100,HIGH,South Clinic
+P00101,Patient 101,HIGH,North Clinic
+P00102,Patient 102,MEDIUM,South Clinic
+P00103,Patient 103,MEDIUM,South Clinic
+P00104,Patient 104,MEDIUM,South Clinic
+P00105,Patient 105,LOW,North Clinic
+P00106,Patient 106,LOW,North Clinic
+P00107,Patient 107,MEDIUM,Telehealth
+P00108,Patient 108,MEDIUM,North Clinic
+P00109,Patient 109,MEDIUM,North Clinic
+P00110,Patient 110,LOW,North Clinic
+P00111,Patient 111,LOW,Telehealth
+P00112,Patient 112,LOW,South Clinic
+P00113,Patient 113,MEDIUM,South Clinic
+P00114,Patient 114,HIGH,North Clinic
+P00115,Patient 115,MEDIUM,South Clinic
+P00116,Patient 116,MEDIUM,Telehealth
+P00117,Patient 117,MEDIUM,Telehealth
+P00118,Patient 118,HIGH,South Clinic
+P00119,Patient 119,MEDIUM,Telehealth
+P00120,Patient 120,MEDIUM,North Clinic
+P00121,Patient 121,MEDIUM,North Clinic
+P00122,Patient 122,MEDIUM,North Clinic
+P00123,Patient 123,MEDIUM,North Clinic
+P00124,Patient 124,MEDIUM,Telehealth
+P00125,Patient 125,MEDIUM,Telehealth
+P00126,Patient 126,HIGH,North Clinic
+P00127,Patient 127,HIGH,South Clinic
+P00128,Patient 128,LOW,North Clinic
+P00129,Patient 129,MEDIUM,Telehealth
+P00130,Patient 130,MEDIUM,North Clinic
+P00131,Patient 131,MEDIUM,South Clinic
+P00132,Patient 132,LOW,North Clinic
+P00133,Patient 133,LOW,Telehealth
+P00134,Patient 134,MEDIUM,Telehealth
+P00135,Patient 135,HIGH,Telehealth
+P00136,Patient 136,LOW,North Clinic
+P00137,Patient 137,MEDIUM,Telehealth
+P00138,Patient 138,HIGH,North Clinic
+P00139,Patient 139,HIGH,Telehealth
+P00140,Patient 140,LOW,Telehealth
+P00141,Patient 141,LOW,South Clinic
+P00142,Patient 142,HIGH,South Clinic
+P00143,Patient 143,LOW,Telehealth
+P00144,Patient 144,LOW,North Clinic
+P00145,Patient 145,MEDIUM,North Clinic
+P00146,Patient 146,HIGH,South Clinic
+P00147,Patient 147,LOW,North Clinic
+P00148,Patient 148,MEDIUM,Telehealth
+P00149,Patient 149,MEDIUM,Telehealth
+P00150,Patient 150,LOW,South Clinic
+P00151,Patient 151,HIGH,North Clinic
+P00152,Patient 152,HIGH,Telehealth
+P00153,Patient 153,MEDIUM,South Clinic
+P00154,Patient 154,HIGH,North Clinic
+P00155,Patient 155,MEDIUM,South Clinic
+P00156,Patient 156,HIGH,Telehealth
+P00157,Patient 157,HIGH,North Clinic
+P00158,Patient 158,MEDIUM,Telehealth
+P00159,Patient 159,LOW,South Clinic
+P00160,Patient 160,LOW,Telehealth
+P00161,Patient 161,MEDIUM,Telehealth
+P00162,Patient 162,LOW,Telehealth
+P00163,Patient 163,HIGH,South Clinic
+P00164,Patient 164,HIGH,South Clinic
+P00165,Patient 165,LOW,Telehealth
+P00166,Patient 166,MEDIUM,North Clinic
+P00167,Patient 167,LOW,North Clinic
+P00168,Patient 168,LOW,South Clinic
+P00169,Patient 169,MEDIUM,Telehealth
+P00170,Patient 170,HIGH,Telehealth
+P00171,Patient 171,HIGH,Telehealth
+P00172,Patient 172,MEDIUM,North Clinic
+P00173,Patient 173,MEDIUM,North Clinic
+P00174,Patient 174,MEDIUM,North Clinic
+P00175,Patient 175,LOW,Telehealth
+P00176,Patient 176,MEDIUM,South Clinic
+P00177,Patient 177,HIGH,North Clinic
+P00178,Patient 178,MEDIUM,Telehealth
+P00179,Patient 179,LOW,South Clinic
+P00180,Patient 180,LOW,Telehealth
+P00181,Patient 181,HIGH,South Clinic
+P00182,Patient 182,LOW,North Clinic
+P00183,Patient 183,HIGH,Telehealth
+P00184,Patient 184,HIGH,North Clinic
+P00185,Patient 185,MEDIUM,North Clinic
+P00186,Patient 186,MEDIUM,Telehealth
+P00187,Patient 187,HIGH,South Clinic
+P00188,Patient 188,MEDIUM,South Clinic
+P00189,Patient 189,MEDIUM,North Clinic
+P00190,Patient 190,LOW,Telehealth
+P00191,Patient 191,MEDIUM,South Clinic
+P00192,Patient 192,HIGH,Telehealth
+P00193,Patient 193,LOW,South Clinic
+P00194,Patient 194,LOW,Telehealth
+P00195,Patient 195,HIGH,Telehealth
+P00196,Patient 196,MEDIUM,Telehealth
+P00197,Patient 197,HIGH,North Clinic
+P00198,Patient 198,LOW,Telehealth
+P00199,Patient 199,HIGH,South Clinic
+P00200,Patient 200,LOW,South Clinic
+P00201,Patient 201,MEDIUM,North Clinic
+P00202,Patient 202,HIGH,South Clinic
+P00203,Patient 203,LOW,North Clinic
+P00204,Patient 204,MEDIUM,North Clinic
+P00205,Patient 205,HIGH,Telehealth
+P00206,Patient 206,MEDIUM,Telehealth
+P00207,Patient 207,LOW,South Clinic
+P00208,Patient 208,MEDIUM,Telehealth
+P00209,Patient 209,MEDIUM,North Clinic
+P00210,Patient 210,HIGH,Telehealth
+P00211,Patient 211,HIGH,North Clinic
+P00212,Patient 212,MEDIUM,South Clinic
+P00213,Patient 213,LOW,North Clinic
+P00214,Patient 214,MEDIUM,South Clinic
+P00215,Patient 215,LOW,South Clinic
+P00216,Patient 216,HIGH,South Clinic
+P00217,Patient 217,HIGH,South Clinic
+P00218,Patient 218,MEDIUM,North Clinic
+P00219,Patient 219,HIGH,South Clinic
+P00220,Patient 220,MEDIUM,Telehealth
+P00221,Patient 221,MEDIUM,South Clinic
+P00222,Patient 222,HIGH,South Clinic
+P00223,Patient 223,HIGH,North Clinic
+P00224,Patient 224,HIGH,South Clinic
+P00225,Patient 225,HIGH,Telehealth
+P00226,Patient 226,LOW,South Clinic
+P00227,Patient 227,MEDIUM,North Clinic
+P00228,Patient 228,HIGH,Telehealth
+P00229,Patient 229,LOW,Telehealth
+P00230,Patient 230,LOW,South Clinic
+P00231,Patient 231,MEDIUM,North Clinic
+P00232,Patient 232,HIGH,Telehealth
+P00233,Patient 233,HIGH,North Clinic
+P00234,Patient 234,HIGH,Telehealth
+P00235,Patient 235,MEDIUM,South Clinic
+P00236,Patient 236,LOW,South Clinic
+P00237,Patient 237,HIGH,Telehealth
+P00238,Patient 238,MEDIUM,North Clinic
+P00239,Patient 239,HIGH,North Clinic
+P00240,Patient 240,HIGH,Telehealth
+P00241,Patient 241,HIGH,Telehealth
+P00242,Patient 242,LOW,Telehealth
+P00243,Patient 243,HIGH,North Clinic
+P00244,Patient 244,MEDIUM,North Clinic
+P00245,Patient 245,MEDIUM,South Clinic
+P00246,Patient 246,HIGH,Telehealth
+P00247,Patient 247,HIGH,Telehealth
+P00248,Patient 248,MEDIUM,Telehealth
+P00249,Patient 249,LOW,South Clinic
+P00250,Patient 250,HIGH,Telehealth
+P00251,Patient 251,LOW,North Clinic
+P00252,Patient 252,LOW,North Clinic
+P00253,Patient 253,LOW,South Clinic
+P00254,Patient 254,LOW,North Clinic
+P00255,Patient 255,HIGH,Telehealth
+P00256,Patient 256,MEDIUM,Telehealth
+P00257,Patient 257,LOW,North Clinic
+P00258,Patient 258,LOW,North Clinic
+P00259,Patient 259,MEDIUM,North Clinic
+P00260,Patient 260,MEDIUM,North Clinic
+P00261,Patient 261,LOW,South Clinic
+P00262,Patient 262,HIGH,South Clinic
+P00263,Patient 263,HIGH,Telehealth
+P00264,Patient 264,MEDIUM,South Clinic
+P00265,Patient 265,HIGH,Telehealth
+P00266,Patient 266,MEDIUM,Telehealth
+P00267,Patient 267,LOW,Telehealth
+P00268,Patient 268,LOW,North Clinic
+P00269,Patient 269,LOW,South Clinic
+P00270,Patient 270,HIGH,Telehealth
+P00271,Patient 271,LOW,Telehealth
+P00272,Patient 272,MEDIUM,North Clinic
+P00273,Patient 273,LOW,Telehealth
+P00274,Patient 274,HIGH,Telehealth
+P00275,Patient 275,LOW,North Clinic
+P00276,Patient 276,MEDIUM,North Clinic
+P00277,Patient 277,HIGH,North Clinic
+P00278,Patient 278,MEDIUM,South Clinic
+P00279,Patient 279,HIGH,North Clinic
+P00280,Patient 280,HIGH,North Clinic
+P00281,Patient 281,HIGH,North Clinic
+P00282,Patient 282,HIGH,North Clinic
+P00283,Patient 283,MEDIUM,South Clinic
+P00284,Patient 284,MEDIUM,North Clinic
+P00285,Patient 285,HIGH,South Clinic
+P00286,Patient 286,MEDIUM,Telehealth
+P00287,Patient 287,HIGH,North Clinic
+P00288,Patient 288,HIGH,South Clinic
+P00289,Patient 289,MEDIUM,Telehealth
+P00290,Patient 290,MEDIUM,North Clinic
+P00291,Patient 291,HIGH,Telehealth
+P00292,Patient 292,HIGH,Telehealth
+P00293,Patient 293,LOW,North Clinic
+P00294,Patient 294,LOW,Telehealth
+P00295,Patient 295,LOW,North Clinic
+P00296,Patient 296,MEDIUM,Telehealth
+P00297,Patient 297,LOW,South Clinic
+P00298,Patient 298,MEDIUM,North Clinic
+P00299,Patient 299,MEDIUM,North Clinic
+P00300,Patient 300,HIGH,South Clinic
+P00301,Patient 301,HIGH,Telehealth
+P00302,Patient 302,LOW,North Clinic
+P00303,Patient 303,HIGH,South Clinic
+P00304,Patient 304,HIGH,North Clinic
+P00305,Patient 305,HIGH,South Clinic
+P00306,Patient 306,HIGH,North Clinic
+P00307,Patient 307,LOW,Telehealth
+P00308,Patient 308,HIGH,South Clinic
+P00309,Patient 309,LOW,Telehealth
+P00310,Patient 310,MEDIUM,North Clinic
+P00311,Patient 311,HIGH,North Clinic
+P00312,Patient 312,HIGH,North Clinic
+P00313,Patient 313,LOW,South Clinic
+P00314,Patient 314,LOW,Telehealth
+P00315,Patient 315,MEDIUM,South Clinic
+P00316,Patient 316,MEDIUM,South Clinic
+P00317,Patient 317,HIGH,Telehealth
+P00318,Patient 318,LOW,North Clinic
+P00319,Patient 319,LOW,North Clinic
+P00320,Patient 320,LOW,Telehealth
+P00321,Patient 321,MEDIUM,Telehealth
+P00322,Patient 322,LOW,North Clinic
+P00323,Patient 323,LOW,North Clinic
+P00324,Patient 324,HIGH,South Clinic
+P00325,Patient 325,HIGH,Telehealth
+P00326,Patient 326,HIGH,North Clinic
+P00327,Patient 327,MEDIUM,Telehealth
+P00328,Patient 328,LOW,South Clinic
+P00329,Patient 329,HIGH,Telehealth
+P00330,Patient 330,MEDIUM,South Clinic
+P00331,Patient 331,HIGH,South Clinic
+P00332,Patient 332,MEDIUM,South Clinic
+P00333,Patient 333,LOW,Telehealth
+P00334,Patient 334,MEDIUM,South Clinic
+P00335,Patient 335,MEDIUM,Telehealth
+P00336,Patient 336,MEDIUM,Telehealth
+P00337,Patient 337,MEDIUM,North Clinic
+P00338,Patient 338,LOW,Telehealth
+P00339,Patient 339,LOW,South Clinic
+P00340,Patient 340,HIGH,North Clinic
+P00341,Patient 341,HIGH,North Clinic
+P00342,Patient 342,MEDIUM,North Clinic
+P00343,Patient 343,LOW,South Clinic
+P00344,Patient 344,MEDIUM,North Clinic
+P00345,Patient 345,MEDIUM,South Clinic
+P00346,Patient 346,MEDIUM,Telehealth
+P00347,Patient 347,LOW,Telehealth
+P00348,Patient 348,LOW,Telehealth
+P00349,Patient 349,HIGH,North Clinic
+P00350,Patient 350,LOW,North Clinic
+P00351,Patient 351,HIGH,Telehealth
+P00352,Patient 352,MEDIUM,Telehealth
+P00353,Patient 353,LOW,Telehealth
+P00354,Patient 354,HIGH,North Clinic
+P00355,Patient 355,HIGH,Telehealth
+P00356,Patient 356,HIGH,South Clinic
+P00357,Patient 357,HIGH,South Clinic
+P00358,Patient 358,HIGH,South Clinic
+P00359,Patient 359,HIGH,South Clinic
+P00360,Patient 360,LOW,Telehealth
+P00361,Patient 361,HIGH,Telehealth
+P00362,Patient 362,HIGH,North Clinic
+P00363,Patient 363,HIGH,Telehealth
+P00364,Patient 364,HIGH,North Clinic
+P00365,Patient 365,HIGH,South Clinic
+P00366,Patient 366,HIGH,South Clinic
+P00367,Patient 367,HIGH,Telehealth
+P00368,Patient 368,MEDIUM,North Clinic
+P00369,Patient 369,HIGH,South Clinic
+P00370,Patient 370,HIGH,North Clinic
+P00371,Patient 371,LOW,Telehealth
+P00372,Patient 372,LOW,South Clinic
+P00373,Patient 373,LOW,Telehealth
+P00374,Patient 374,LOW,Telehealth
+P00375,Patient 375,MEDIUM,North Clinic
+P00376,Patient 376,LOW,Telehealth
+P00377,Patient 377,LOW,Telehealth
+P00378,Patient 378,LOW,Telehealth
+P00379,Patient 379,HIGH,Telehealth
+P00380,Patient 380,LOW,Telehealth
+P00381,Patient 381,HIGH,Telehealth
+P00382,Patient 382,LOW,Telehealth
+P00383,Patient 383,HIGH,North Clinic
+P00384,Patient 384,MEDIUM,Telehealth
+P00385,Patient 385,LOW,Telehealth
+P00386,Patient 386,LOW,Telehealth
+P00387,Patient 387,LOW,Telehealth
+P00388,Patient 388,MEDIUM,Telehealth
+P00389,Patient 389,LOW,South Clinic
+P00390,Patient 390,LOW,North Clinic
+P00391,Patient 391,LOW,North Clinic
+P00392,Patient 392,HIGH,North Clinic
+P00393,Patient 393,LOW,North Clinic
+P00394,Patient 394,LOW,Telehealth
+P00395,Patient 395,MEDIUM,Telehealth
+P00396,Patient 396,LOW,North Clinic
+P00397,Patient 397,MEDIUM,South Clinic
+P00398,Patient 398,HIGH,Telehealth
+P00399,Patient 399,HIGH,Telehealth
+P00400,Patient 400,MEDIUM,South Clinic

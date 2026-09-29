@@ -1,0 +1,20 @@
+# EDUCATIONAL ontology sketch — NOT Palantir Foundry metadata export
+objects:
+  Patient:
+    primary_key: patient_id
+    properties: [full_name, risk_tier, primary_site]
+  Encounter:
+    primary_key: encounter_id
+    properties: [encounter_date, department, cost_usd]
+  Asset:
+    primary_key: asset_id
+    properties: [asset_type, site, status]
+links:
+  PatientHasEncounter:
+    from: Patient
+    to: Encounter
+    join: patient_id
+  SiteAlignsAsset:
+    from: Patient.primary_site
+    to: Asset.site
+    note: "Loose ops link for teaching — not production modeling"
