@@ -1,7 +1,7 @@
 __pycache__/
-*.py[cod]
 .venv/
-venv/
-.env
-data/derived/
-!data/.gitkeep
+output/
+*.pyc
+.DS_Store
+data/*.csv
+data/*.json

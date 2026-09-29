@@ -1,0 +1,9 @@
+{
+  "objects": ["Encounter", "Bed", "Department", "StaffShift"],
+  "links": [
+    {"from": "Encounter", "to": "Bed", "name": "occupies"},
+    {"from": "Encounter", "to": "Department", "name": "located_in"},
+    {"from": "StaffShift", "to": "Department", "name": "covers"}
+  ],
+  "disclaimer": "Local simulation only — not a Foundry tenant"
+}
